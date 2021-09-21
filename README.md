@@ -2,6 +2,11 @@
 [![LinkedIn](https://img.shields.io/badge/xingvoong%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/xingvoong/)](https://www.linkedin.com/in/xingvoong/)
 [![Twitter](https://img.shields.io/badge/xingvoong%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/xingvoong/)](https://twitter.com/xingvoong/)
 [![GitHub](https://img.shields.io/badge/xingvoong%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/xingvoong)](https://github.com/xingvoong)
+[![Gmail](https://img.shields.io/badge/xingvoong%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:xingvoong@gmail.com)](mailto:xingvoong@gmail.com)
+
+I am a Software Engineer and an avid reader. I was born in Hong Kong at a refugee camp. I grew up on a small farm town in Southern Vietnam where I helped my parents grow coffee and black pepper.
+
+📫 I am most responsive via email: [email](https://mail.google.com/mail/u/?authuser=xingvoong@gmail.com)
 
 <!--
 **xingvoong/xingvoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
