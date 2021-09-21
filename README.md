@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Xing 👋
+[![LinkedIn](https://img.shields.io/badge/xingvoong%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/xingvoong/)](https://www.linkedin.com/in/xingvoong/)
+[![Twitter](https://img.shields.io/badge/xingvoong%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/xingvoong/)](https://twitter.com/xingvoong/)
+[![GitHub](https://img.shields.io/badge/xingvoong%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/xingvoong)](https://github.com/xingvoong)
 
 <!--
 **xingvoong/xingvoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
