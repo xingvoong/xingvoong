@@ -7,8 +7,8 @@
 I am a Software Engineer and an avid reader. I was born in Hong Kong at a refugee camp. I grew up on a small farm town in Southern Vietnam where I helped my parents grow coffee ☕  and black pepper.
 
 
--  🔭   I’m currently looking for a team to join.
--  😄   Pronouns: he/him, they/him.
+-  🔭   I’m currently looking for an engineering team to join.
+-  😄   Pronouns: he/him, they/them.
 -  😅   Fun fact: I am 5'3 or 1m63.
 -  📫    I am most responsive via email: [xingvoong@gmail.com](https://mail.google.com/mail/u/?authuser=xingvoong@gmail.com)
 
