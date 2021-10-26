@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/xingvoong%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/xingvoong)](https://github.com/xingvoong)
 [![Gmail](https://img.shields.io/badge/xingvoong%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:xingvoong@gmail.com)](mailto:xingvoong@gmail.com)
 
-I am a Software Engineer and an avid reader. I was born in Hong Kong at a refugee camp. I grew up on a small farm town in Southern Vietnam where I helped my parents grow coffee ☕  and black pepper.
+I am a Software Engineer, writer and an avid reader. I was born in Hong Kong at a refugee camp. I grew up on a small farm town in Southern Vietnam where I helped my parents grow coffee ☕  and black pepper.
 
 
 -  🔭   I’m currently looking for an engineering team to join.
@@ -33,6 +33,8 @@ I am a Software Engineer and an avid reader. I was born in Hong Kong at a refuge
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="35px" height="35px"></a>
 <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="35px" height="35px"></a>
 **...**
+
+[![Xing's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingvoong)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
