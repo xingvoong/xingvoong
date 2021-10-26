@@ -34,7 +34,7 @@ I am a Software Engineer, writer and an avid reader. I was born in Hong Kong at 
 <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="35px" height="35px"></a>
 **...**
 
-[![Xing's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingvoong)](https://github.com/anuraghazra/github-readme-stats)
+[![Xing's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingvoong)](https://github.com/xingvoong/github-readme-stats)
 
 
 <!--
