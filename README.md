@@ -9,7 +9,7 @@ I am a Software Engineer, writer and an avid reader. I was born in Hong Kong at 
 
 -  🔭   I’m currently looking for an engineering team to join.
 -  😄   Pronouns: he/him, they/them.
--  😅   Fun fact: I am 5'3 or 1m63.
+-  😅   Fun fact: I am 5'4 or 1m63.
 -  📫    I am most responsive via email: [xingvoong@gmail.com](https://mail.google.com/mail/u/?authuser=xingvoong@gmail.com)
 
 ### Languages
