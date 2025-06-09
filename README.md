@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/xingvoong%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/xingvoong)](https://github.com/xingvoong)
 [![Gmail](https://img.shields.io/badge/xingvoong%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:xingvoong@gmail.com)](mailto:xingvoong@gmail.com)
 
-Hello, I am Xing, a developer advocate and an engineer based in San Francisco. As an engineer, I build scalable production applications
+Hello, I am Xing, an engineer based in San Francisco. As an engineer, I build scalable production applications
 
 
 -  🔭   I’m currently looking for an engineering team to join.
